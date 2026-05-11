@@ -1,4 +1,8 @@
 .config/alacritty/dank-theme.toml
+
 .config/ghostty/themes/dankcolors
+.config/ghostty/local.ghostty
+
 .config/hypr/dms
+
 .config/niri/dms

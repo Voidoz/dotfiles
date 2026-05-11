@@ -1,1 +1,7 @@
-window-decoration = none
+config-file = ?local.ghostty
+
+#custom-shader = ./shaders/starfield-colors.glsl
+custom-shader-animation = always
+
+window-inherit-working-directory = false
+tab-inherit-working-directory = false
