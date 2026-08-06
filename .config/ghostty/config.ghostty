@@ -1,7 +1,8 @@
 config-file = ?local.ghostty
 
-#custom-shader = ./shaders/starfield-colors.glsl
 custom-shader-animation = always
+custom-shader = ./shaders/cursor_trail.glsl
+custom-shader = ./shaders/rectangle_ripple_cursor.glsl
 
 window-inherit-working-directory = false
 tab-inherit-working-directory = false
