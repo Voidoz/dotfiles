@@ -6,3 +6,5 @@ custom-shader = ./shaders/rectangle_ripple_cursor.glsl
 
 window-inherit-working-directory = false
 tab-inherit-working-directory = false
+
+window-padding-color = extend-always
